@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: coolwer13@gmail.com
 description: ""
 keyword: "BY, BY Blog, Blog of Gap, qiubaiying, Gap, iOS, Apple, iPhone"
-url: "http://halfgap.github.io"          # your host, for absolute URL
+url: "https://halfgap.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/halfgap/halfgap.github.io.git" # you code repository
 
